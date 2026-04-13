@@ -1,0 +1,1 @@
+# Script original em R 
